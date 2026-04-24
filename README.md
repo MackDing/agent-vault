@@ -169,3 +169,18 @@ You might also make a great addition to our team. We're growing fast and would l
 ---
 
 > **Preview.** Agent Vault is in active development and the API is subject to change. Please review the [security documentation](https://docs.agent-vault.dev/learn/security) before deploying.
+
+---
+
+## 🦞 OPC Ecosystem
+
+Part of the [OPC (One-Person Company)](https://opc.ren) open-source ecosystem by [Mack Ding](https://github.com/MackDing):
+
+| Project | Description |
+|---------|-------------|
+| [awesome-ai-api](https://github.com/MackDing/awesome-ai-api) | Curated list of 200+ AI API providers with daily ranking |
+| [CodexClaw](https://github.com/MackDing/CodexClaw) | Telegram bot for Claude Code & Codex CLI |
+| [ai-agents](https://github.com/MackDing/ai-agents) | AI agent fleet — devops, finance, media, office, social |
+| [opc-daily-signal](https://github.com/MackDing/opc-daily-signal) | Daily decision intelligence for OPC founders |
+| [claude-context-health](https://github.com/MackDing/claude-context-health) | Context health diagnostic guide for Claude Code |
+| [doc-preprocess-hub](https://github.com/MackDing/doc-preprocess-hub) | Enterprise document preprocessing platform |
